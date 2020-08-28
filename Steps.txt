@@ -1,0 +1,8 @@
+1. ghdl -a andgate.vhdl
+2. ghdl -a andgate_testbench.vhdl
+3. ghdl -e andgate_testbench
+4. ghdl -r andgate_testbench
+5. ghdl -r andgate_testbench -- vcd = andgate.vcd
+
+at last for the waveform we have to type 
+          gtkwave andgate.vcd

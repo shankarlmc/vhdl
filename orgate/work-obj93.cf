@@ -1,0 +1,7 @@
+v 4
+file . "orgate_testbench.vhdl" "6af35fd89913768454ca22e6ed4bcf76386a0243" "20200519025245.638":
+  entity orgate_testbench at 1( 0) + 0 on 17;
+  architecture test of orgate_testbench at 8( 125) + 0 on 18;
+file . "orgate.vhdl" "f273b47862662c5e9113e9eb80b2006026faf0d6" "20200519025235.495":
+  entity orgate at 1( 0) + 0 on 15;
+  architecture behavior of orgate at 11( 134) + 0 on 16;
