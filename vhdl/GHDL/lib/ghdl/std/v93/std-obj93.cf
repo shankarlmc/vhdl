@@ -1,0 +1,5 @@
+v 4
+file . "../../src/std/v93/textio-body.vhdl" "d89b6842537c331b2e54f9ef6c17e6f0e2f8b448" "20200228215230.257":
+  package body textio at 18( 760) + 0 on 12;
+file . "../../src/std/v93/textio.vhdl" "0be31223749a9042fd2e700ce9a5d9011fcc9281" "20200228215230.220":
+  package textio at 19( 820) + 0 on 11 body;

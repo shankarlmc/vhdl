@@ -1,3 +1,11 @@
+<======= First Of All Put the VHDL folder into C Drive ==========>
+<=======Add new path variable for GHDL => C:\vhdl\GHDL\bin ===>
+<=======Add new path variable for GTKWAVE =>C:\vhdl\gtkwave\bin =>
+
+
+now open command prompt and go to the directory where you created andgate.vhdl and type these commands:
+
+
 1. ghdl -a andgate.vhdl
 2. ghdl -a andgate_testbench.vhdl
 3. ghdl -e andgate_testbench
